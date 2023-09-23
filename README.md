@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# PropelAuth Express Middleware
+# PropelAuth Koa Middleware
 
-An Express/Connect middleware for managing authentication, backed by [PropelAuth](https://www.propelauth.com?ref=github). 
+An Koa/Connect middleware for managing authentication, backed by [PropelAuth](https://www.propelauth.com?ref=github). 
 
 [PropelAuth](https://www.propelauth.com?ref=github) makes it easy to add authentication and authorization to your B2B/multi-tenant application.
 
@@ -14,7 +14,7 @@ Your frontend gets a beautiful, safe, and customizable login screen. Your backen
 
 ## Documentation
 
-- Full reference this library is [here](https://docs.propelauth.com/reference/backend-apis/express)
+- Full reference this library is [here](https://docs.propelauth.com/reference/backend-apis/koa)
 - Getting started guides for PropelAuth are [here](https://docs.propelauth.com/)
 
 ## Questions?
